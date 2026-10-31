@@ -8,5 +8,6 @@ public class Demo {
 	}
 	public static void greet() {
 	    System.out.println("Hello from feature branch!");
+		System.out.println("hello");
 	}
 }
